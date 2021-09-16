@@ -4,7 +4,7 @@ description: The titles and descriptions can be changed
 ---
 
 
-![My Picture]()
+![My Picture](/pics/ProfilePicture.jpg)
 
 This is content I've developed for the M3 assignment:
 
