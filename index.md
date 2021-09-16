@@ -1,5 +1,5 @@
 ---
-title: New Title
+title: New
 description: The titles and descriptions can be changed
 ---
 
